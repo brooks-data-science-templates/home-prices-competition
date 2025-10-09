@@ -1,0 +1,42 @@
+# Unpinned requirements (package names only)
+# Generated from pinned requirements (pip freeze) on 2025-10-09
+# This file intentionally omits version pins for classroom/template use.
+
+appnope
+asttokens
+comm
+debugpy
+decorator
+executing
+ipykernel
+ipython
+ipython_pygments_lexers
+jedi
+joblib
+jupyter_client
+jupyter_core
+matplotlib-inline
+nest-asyncio
+numpy
+packaging
+pandas
+parso
+pexpect
+platformdirs
+prompt_toolkit
+psutil
+ptyprocess
+pure_eval
+pygments
+python-dateutil
+pytz
+pyzmq
+scikit-learn
+scipy
+six
+stack-data
+threadpoolctl
+tornado
+traitlets
+tzdata
+wcwidth
